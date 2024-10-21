@@ -60,6 +60,7 @@ The data is stored in the following files:
 ### 1. Missing Value Analysis
 ![Missing Value Analysis](images/missing_values.png)
 *Figure 1: Analysis of missing values in the dataset.*
+
 <img width="231" alt="MissingValues" src="https://github.com/user-attachments/assets/1de6fbe1-27b0-4ef3-9e95-c91f5b286f24">
 
 ### 2. Distribution of Tourist Spots by Category
