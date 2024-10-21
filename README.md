@@ -82,6 +82,7 @@ The data is stored in the following files:
 ### 5. Model Performance (Collaborative Filtering)
 ![Collaborative Filtering Performance](images/collaborative_filtering_performance.png)
 *Figure 5: RMSE and MAE values for the recommendation system.*
+
 <img width="218" alt="ModelPerformance" src="https://github.com/user-attachments/assets/9335ac6d-8ab3-4bed-a8bf-6bc0a57ad6bb">
 
 ### 6. Example Usage
